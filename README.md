@@ -1,0 +1,2 @@
+# FactoryMethodPatternSample
+FactoryMethod Pattern sample
